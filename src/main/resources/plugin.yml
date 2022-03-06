@@ -1,0 +1,8 @@
+name: Dphelper
+version: '${version}'
+main: xiamo.dphelper.Dphelper
+api-version: 1.18
+prefix: DP
+authors: [ Icalingua ]
+description: 数据包辅助
+website: https://github.com/XiaMoZhiShi/Dphelper
